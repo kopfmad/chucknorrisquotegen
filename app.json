@@ -1,32 +1,36 @@
 {
   "expo": {
-    "name": "chucknorris",
-    "slug": "chucknorris",
+    "name": "Chuck Norris Quote Gen",
+    "slug": "chucknorrisquotegen",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/icon.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     },
     "android": {
+      "permissions": [],
+      "versionCode": 1,
+      "config": {
+        "googleMobileAdsAppId": "ca-app-pub-2208900470437599/3928728142"
+      },
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.kopfmad.chucknorrisquotegen"
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/adaptive-icon.jpeg"
     }
   }
 }

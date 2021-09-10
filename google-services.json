@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "671943704936",
+    "project_id": "chucknorris-54b4b",
+    "storage_bucket": "chucknorris-54b4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671943704936:android:6c70d281fd6808d44216dd",
+        "android_client_info": {
+          "package_name": "com.kopfmad.chucknorrisquotegen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671943704936-ci4mmth0oirggd1qmsbong0cdkher767.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX3skVi2Yx5V2J12-wFJsXYDIty_5frC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671943704936-ci4mmth0oirggd1qmsbong0cdkher767.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
